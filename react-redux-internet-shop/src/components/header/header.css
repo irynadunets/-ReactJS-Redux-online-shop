@@ -1,0 +1,16 @@
+.header-cart{
+  position: absolute;
+  right: 0;
+}
+
+.filter{
+  padding-left: 50px;
+}
+
+.search{
+  padding-left: 50px;
+}
+
+.login{
+  padding-left: 50px;
+}

@@ -1,0 +1,58 @@
+.form-group{
+  margin: 5px;
+  width: 25%;
+}
+
+.form-control{
+  margin: 5px;
+  width: 25%;
+}
+
+.btn{
+  margin-right: 50px;
+}
+
+.btn-login{
+  margin: 50px;
+}
+
+
+#formGridEmail{
+  margin: 25px;
+  width: 55%;
+}
+
+#formGridPassword{
+  margin: 25px;
+  width: 55%;
+}
+
+#formGridAddress1{
+  margin: 25px;
+  width: 55%;
+}
+
+#formGridAddress2{
+  margin: 25px;
+  width: 55%;
+}
+
+#formGridCity{
+  margin: 25px;
+  width: 55%;
+}
+
+#formGridState{
+  margin: 25px;
+  width: 55%;
+}
+
+#formGridZip{
+  margin: 25px;
+  width: 55%;
+}
+
+#registerButton{
+  margin: 50px;
+  width: 55%;
+}
