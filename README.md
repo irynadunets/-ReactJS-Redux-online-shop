@@ -7,7 +7,7 @@ Shopping cart(add,remove good, remove all goods),
 Sort goods by price and by name,
 Search,
 Login,
-Register
+Register.
 
 Stack:
 ReactJS,
